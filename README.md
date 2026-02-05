@@ -100,6 +100,11 @@ INSERT INTO Role (RoleID) VALUES (1), (2), (3);
 * **Encoding:** `UTF-8`
 * **Delimiter:**
 
+Пример.
+
+![DFC9D133-DD2E-4BA0-A359-A4BEC22CD501](https://github.com/user-attachments/assets/969b9a03-2839-4eb3-98e7-3dc6cd8d3ff5)
+
+
   * `;` если в файле разделитель точка с запятой
   * `,` если разделитель запятая
   * `Tab` если TSV
